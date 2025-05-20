@@ -576,7 +576,7 @@ async def generate_gaming_setup(update: Update, context: ContextTypes.DEFAULT_TY
 
 
 def main():
-    application = Application.builder().token("7720478089:AAFNkuWjyNnOUFh8YA5XVgYo6VWlAV_vGmI").build()
+    application = Application.builder().token("TOKEN").build()
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(handle_category, pattern=r"^(category_|back_to_categories)"))
