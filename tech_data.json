@@ -1,0 +1,578 @@
+{
+    "keyboards": {
+          "Razer": {
+            "Huntsman Elite": {
+                "description": "Игровая клавиатура с оптическими переключателями",
+                "specs": {
+                    "Тип переключателей": "Оптические",
+                    "Подсветка": "RGB",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Алюминиевая рамка, магнитная подставка для запястья"
+                },
+                "price": "$199",
+                "photo_url": "https://razer.syntes.io/127896/800x600-huntsman-elite.png"
+            },
+            "BlackWidow V3": {
+                "description": "Механическая игровая клавиатура с переключателями Razer Green",
+                "specs": {
+                    "Тип переключателей": "Механические (Razer Green)",
+                    "Подсветка": "RGB Chroma",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Двойные литые клавиши PBT, съемный кабель"
+                },
+                "price": "$149",
+                "photo_url": "https://ae04.alicdn.com/kf/S4e2ed6f7cb2a47a690c5940c8555a411n.jpg_640x640.jpg"
+            },
+            "Huntsman Mini": {
+                "description": "Компактная 60% клавиатура с оптическими переключателями",
+                "specs": {
+                    "Тип переключателей": "Оптические (Linear)",
+                    "Подсветка": "RGB",
+                    "Размер": "60%",
+                    "Интерфейс": "USB Type-C",
+                    "Дополнительно": "Ультракомпактный дизайн, съемный кабель"
+                },
+                "price": "$129",
+                "photo_url": "https://img.mvideo.ru/Big/50174260bb.jpg"
+            }
+        },
+        "Logitech": {
+            "G915 TKL": {
+                "description": "Беспроводная механическая клавиатура премиум-класса",
+                "specs": {
+                    "Тип переключателей": "GL Tactile/Linear/Clicky",
+                    "Подсветка": "RGB LIGHTSYNC",
+                    "Размер": "Tenkeyless",
+                    "Интерфейс": "Bluetooth/Lightspeed",
+                    "Дополнительно": "Ультратонкий алюминиевый корпус, до 40 часов работы"
+                },
+                "price": "$229",
+                "photo_url": "https://microless.com/cdn/products/6220383e7a9b3a52cc6c50219616d8f0-hi.jpg"
+            },
+            "G Pro X": {
+                "description": "Модульная механическая клавиатура для киберспорта",
+                "specs": {
+                    "Тип переключателей": "GX (сменные)",
+                    "Подсветка": "RGB",
+                    "Размер": "Tenkeyless",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Съемный кабель, клавиши с двойным литьем"
+                },
+                "price": "$159",
+                "photo_url": "https://microless.com/cdn/products/d05ac01321e9b4079991d8ce90f5e218-hi.jpg"
+            },
+            "MX Keys": {
+                "description": "Беспроводная клавиатура для работы и творчества",
+                "specs": {
+                    "Тип переключателей": "Ножничные (мембранные)",
+                    "Подсветка": "Белая с датчиком освещенности",
+                    "Размер": "Full-size",
+                    "Интерфейс": "Bluetooth/Unifying",
+                    "Дополнительно": "Умное переключение между устройствами, эргономичный дизайн"
+                },
+                "price": "$99",
+                "photo_url": "https://microless.com/cdn/products/3d98627a9b002a3d9f515bf66e97c19e-hi.jpg"
+            }
+        },
+        "Asus": {
+            "ROG Strix Scope RX": {
+                "description": "Игровая клавиатура с переключателями ROG RX Optical",
+                "specs": {
+                    "Тип переключателей": "Оптические RX Red",
+                    "Подсветка": "RGB Aura Sync",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Алюминиевая верхняя панель, съемный магнитный упор для запястья"
+                },
+                "price": "$179",
+                "photo_url": "https://microless.com/cdn/products/e645269e708454bee798790a6a5b3e95-hi.jpg"
+            },
+            "ROG Azoth": {
+                "description": "Премиальная беспроводная механическая клавиатура",
+                "specs": {
+                    "Тип переключателей": "ROG NX (Mechanical)",
+                    "Подсветка": "RGB Aura Sync",
+                    "Размер": "75%",
+                    "Интерфейс": "Bluetooth/2.4GHz/USB-C",
+                    "Дополнительно": "OLED дисплей, звукопоглощающий пенопласт, горячая замена переключателей"
+                },
+                "price": "$249",
+                "photo_url": "https://ir.ozone.ru/s3/multimedia-v/c1000/6812020939.jpg"
+            },
+            "TUF Gaming K3": {
+                "description": "Доступная механическая клавиатура для игр",
+                "specs": {
+                    "Тип переключателей": "Механические TUF (Outemu Blue)",
+                    "Подсветка": "RGB",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Водонепроницаемость IP56, алюминиевая верхняя панель"
+                },
+                "price": "$89",
+                "photo_url": "https://ir.ozone.ru/s3/multimedia-1-m/c1000/7132483606.jpg"
+            }
+        },
+        "HyperX": {
+            "Alloy Origins Core": {
+                "description": "Компактная механическая игровая клавиатура",
+                "specs": {
+                    "Тип переключателей": "HyperX Red (Linear)",
+                    "Подсветка": "RGB",
+                    "Размер": "TKL (Tenkeyless)",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Алюминиевая основа, съемный кабель Type-C"
+                },
+                "price": "$109",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQX0r4uSHet14MPXF4F-3D8EouA1MeMd6_A&s"
+            },
+            "Alloy Elite 2": {
+                "description": "Флагманская игровая клавиатура с медиа-панелью",
+                "specs": {
+                    "Тип переключателей": "HyperX Aqua (Tactile)",
+                    "Подсветка": "RGB с эффектами",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Металлическая пластина, цифровая панель, регулятор громкости"
+                },
+                "price": "$149",
+                "photo_url": "https://mtscdn.ru/upload/iblock/593/1.jpg"
+            },
+            "Alloy FPS RGB": {
+                "description": "Клавиатура для профессионального киберспорта",
+                "specs": {
+                    "Тип переключателей": "Cherry MX Red",
+                    "Подсветка": "RGB",
+                    "Размер": "TKL (Tenkeyless)",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Прочная стальная рама, съемный кабель"
+                },
+                "price": "$119",
+                "photo_url": "https://cdn.citilink.ru/n9_prnNb9WETlfwVu8ASx_QYCMdLnY1mdJKeAKgkHMA/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/product-images/b51e1d3a-7d92-4dc8-a018-baf1233774c0.jpg"
+            }
+        },
+        "SteelSeries": {
+            "Apex Pro": {
+                "description": "Механическая клавиатура с регулируемыми переключателями OmniPoint",
+                "specs": {
+                    "Тип переключателей": "OmniPoint (регулируемые)",
+                    "Подсветка": "RGB PrismSync",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "OLED-дисплей, алюминиевая рама, магнитная подставка для запястья"
+                },
+                "price": "$199",
+                "photo_url": "https://media.steelseriescdn.com/thumbs/filer_public/b1/d1/b1d1b0d3-30d5-4477-bb8f-bad442cfb894/webprim_apexpro.png__1200x627_crop-fit_optimize_subsampling-2.png"
+            },
+            "Apex 7 TKL": {
+                "description": "Компактная механическая клавиатура с OLED-дисплеем",
+                "specs": {
+                    "Тип переключателей": "Red/Brown/Blue (на выбор)",
+                    "Подсветка": "RGB",
+                    "Размер": "Tenkeyless",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Авиационный алюминий, OLED-дисплей, съемный кабель"
+                },
+                "price": "$159",
+                "photo_url": "https://media.steelseriescdn.com/thumbs/filer_public/1c/c5/1cc57cc9-d2a9-46e0-be76-e5f12db18d65/webprim_apex7_tkl.png__1200x627_crop-fit_optimize_subsampling-2.png"
+            },
+            "Apex 3": {
+                "description": "Доступная мембранная игровая клавиатура",
+                "specs": {
+                    "Тип переключателей": "Мембранные (Whisper Quiet)",
+                    "Подсветка": "RGB",
+                    "Размер": "Full-size",
+                    "Интерфейс": "USB",
+                    "Дополнительно": "Водонепроницаемость IP32, магнитная подставка для запястья"
+                },
+                "price": "$59",
+                "photo_url": "https://cdn1.ozone.ru/s3/multimedia-1-o/7339400916.jpg"
+            }
+        }
+    },
+    "mice": {
+       "Razer": {
+            "Viper V2 Pro": {
+                "description": "Беспроводная игровая мышь для киберспорта",
+                "specs": {
+                    "Датчик": "Focus Pro 30K",
+                    "Вес": "58 г",
+                    "Кнопки": "5 программируемых",
+                    "Подключение": "Беспроводное (HyperSpeed)",
+                    "Дополнительно": "Оптические переключатели Gen-3, PTFE ножки"
+                },
+                "price": "$149",
+                "photo_url": "https://4k-monitor.ru/upload/resize_cache/iblock/788/345_345_1/r7wum56syzlggtig2b2g70xmp5g5v5nw.webp"
+            },
+            "DeathAdder V3 Pro": {
+                "description": "Эргономичная беспроводная игровая мышь",
+                "specs": {
+                    "Датчик": "Focus Pro 30K",
+                    "Вес": "63 г",
+                    "Кнопки": "5 программируемых",
+                    "Подключение": "Беспроводное/Проводное",
+                    "Дополнительно": "Форма для правой руки, до 90 часов работы"
+                },
+                "price": "$129",
+                "photo_url": "https://4frag.ru/image/cache/data/product/razer-deathadder-v3-pro-black-1-1000x1000.jpg"
+            },
+            "Naga V2 Pro": {
+                "description": "ММО-мышь с изменяемой панелью кнопок",
+                "specs": {
+                    "Датчик": "Focus Pro 30K",
+                    "Вес": "134 г",
+                    "Кнопки": "19+ программируемых",
+                    "Подключение": "Беспроводное/Проводное",
+                    "Дополнительно": "3 сменные панели кнопок, беспроводная зарядка"
+                },
+                "price": "$179",
+                "photo_url": "https://4frag.ru/image/cache/data/product/razer-naga-v2-pro-1-1000x1000.jpg"
+            }
+        },
+        "Logitech": {
+            "G Pro X Superlight": {
+                "description": "Ультралегкая беспроводная мышь для киберспорта",
+                "specs": {
+                    "Датчик": "HERO 25K",
+                    "Вес": "63 г",
+                    "Кнопки": "5 программируемых",
+                    "Подключение": "Беспроводное (Lightspeed)",
+                    "Дополнительно": "PTFE ножки, до 70 часов работы"
+                },
+                "price": "$159",
+                "photo_url": "https://www.coxo.ru/upload/iblock/81c/ssp0yxeja2mhnhvugobokhj9ykfagtc0/e6ef4c5f_9b8a_11eb_80e3_00155dc86407_e6ef4c60_9b8a_11eb_80e3_00155dc86407.resize1.jpg"
+            },
+            "G502 X Plus": {
+                "description": "Беспроводная игровая мышь с RGB подсветкой",
+                "specs": {
+                    "Датчик": "HERO 25K",
+                    "Вес": "106 г",
+                    "Кнопки": "11 программируемых",
+                    "Подключение": "Беспроводное/Проводное",
+                    "Дополнительно": "Гибридные механические переключатели, регулируемый вес"
+                },
+                "price": "$139",
+                "photo_url": "https://netbox.by/image/catalog/Logitech/Logitech-G502-X-Plus-Wireles-RGB.jpg"
+            },
+            "MX Master 3S": {
+                "description": "Беспроводная мышь для продуктивной работы",
+                "specs": {
+                    "Датчик": "Darkfield 8000 DPI",
+                    "Вес": "141 г",
+                    "Кнопки": "7 программируемых",
+                    "Подключение": "Bluetooth/Unifying",
+                    "Дополнительно": "Эргономичный дизайн, MagSpeed колесо, кроссплатформенность"
+                },
+                "price": "$99",
+                "photo_url": "https://3logic.ru/pimg/pim/regular/1098571.jpg"
+            }
+        },
+        "Asus": {
+            "ROG Harpe Ace": {
+                "description": "Ультралегкая киберспортивная мышь",
+                "specs": {
+                    "Датчик": "AimPoint 36K",
+                    "Вес": "54 г",
+                    "Кнопки": "6 программируемых",
+                    "Подключение": "Проводное",
+                    "Дополнительно": "3-режимный переключатель DPI, PTFE ножки"
+                },
+                "price": "$149",
+                "photo_url": "https://i-teh.com/upload/resize_cache/iblock/f85/900_900_1/6id7vnsvyd6ypi7t5oy38ts29c1mi287.jpg"
+            },
+            "ROG Gladius III": {
+                "description": "Игровая мышь с горячей заменой переключателей",
+                "specs": {
+                    "Датчик": "AimPoint 36K",
+                    "Вес": "79 г",
+                    "Кнопки": "6 программируемых",
+                    "Подключение": "Проводное/Беспроводное",
+                    "Дополнительно": "Сменные переключатели, 100% PTFE ножки"
+                },
+                "price": "$119",
+                "photo_url": "https://3logic.ru/pimg/pim/1000/1213541.jpg"
+            },
+            "TUF M4 Air": {
+                "description": "Облегченная игровая мышь",
+                "specs": {
+                    "Датчик": "PixArt 16000 DPI",
+                    "Вес": "49 г",
+                    "Кнопки": "6 программируемых",
+                    "Подключение": "Проводное",
+                    "Дополнительно": "Гибридная конструкция корпуса, съемный кабель"
+                },
+                "price": "$59",
+                "photo_url": "https://dlcdnwebimgs.asus.com/gain/4226fad1-30f1-4773-9f20-5746f139d632/w692"
+            }
+        },
+        "HyperX": {
+            "Pulsefire Haste 2": {
+                "description": "Облегченная игровая мышь с двойным сенсором",
+                "specs": {
+                    "Датчик": "HyperX 26K",
+                    "Вес": "61 г",
+                    "Кнопки": "6 программируемых",
+                    "Подключение": "Проводное/Беспроводное",
+                    "Дополнительно": "100% PTFE ножки, съемная крышка"
+                },
+                "price": "$89",
+                "photo_url": "https://ru-netbox.ru/image/cache/catalog/HyperX/HyperX-Pulsefire-Haste-2-7-417x417.jpg"
+            },
+            "Pulsefire Raid": {
+                "description": "Игровая мышь с 11 программируемыми кнопками",
+                "specs": {
+                    "Датчик": "PixArt 3389",
+                    "Вес": "95 г",
+                    "Кнопки": "11 программируемых",
+                    "Подключение": "Проводное",
+                    "Дополнительно": "Эргономичный дизайн, Omron переключатели"
+                },
+                "price": "$69",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGWq9GrwaI6zXPffqsKALrmjl3g-_6Hae7g&s"
+            },
+            "Pulsefire Dart": {
+                "description": "Беспроводная игровая мышь с Qi-зарядкой",
+                "specs": {
+                    "Датчик": "PixArt 3389",
+                    "Вес": "110 г",
+                    "Кнопки": "6 программируемых",
+                    "Подключение": "Беспроводное",
+                    "Дополнительно": "Поддержка Qi-зарядки, до 50 часов работы"
+                },
+                "price": "$99",
+                "photo_url": "https://row.hyperx.com/cdn/shop/files/hyperx_pulsefire_dart_01_top_down.jpg?v=1700189318"
+            }
+        },
+        "SteelSeries": {
+            "Aerox 9 Wireless": {
+                "description": "Беспроводная ММО-мышь с 12 боковыми кнопками",
+                "specs": {
+                    "Датчик": "TrueMove Air",
+                    "Вес": "89 г",
+                    "Кнопки": "18 программируемых",
+                    "Подключение": "Беспроводное/Проводное",
+                    "Дополнительно": "Двойная система беспроводной связи, 180+ часов работы"
+                },
+                "price": "$149",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFEO09DIkrZJZhqZ2vj5Zd9HsKJzr2j7PTg&s"
+            },
+            "Prime Wireless": {
+                "description": "Эргономичная беспроводная мышь",
+                "specs": {
+                    "Датчик": "TrueMove Pro",
+                    "Вес": "80 g",
+                    "Кнопки": "5 программируемых",
+                    "Подключение": "Беспроводное/Проводное",
+                    "Дополнительно": "100% PTFE ножки, до 100 часов работы"
+                },
+                "price": "$129",
+                "photo_url": "https://media.steelseriescdn.com/thumbs/catalog/items/62593/a36972b8fa224405844aa629233854ce.png.1400x1120_q100_crop-fit_optimize.png"
+            },
+            "Rival 5": {
+                "description": "Игровая мышь с 9 программируемыми кнопками",
+                "specs": {
+                    "Датчик": "TrueMove Air",
+                    "Вес": "85 g",
+                    "Кнопки": "9 программируемых",
+                    "Подключение": "Проводное",
+                    "Дополнительно": "5-зонная RGB подсветка, быстрый отклик"
+                },
+                "price": "$59",
+                "photo_url": "https://cdn1.ozone.ru/s3/multimedia-6/6258100674.jpg"
+            }
+        }
+    },
+    "headphones": {
+        "Razer": {
+            "BlackShark V2 Pro": {
+                "description": "Беспроводные игровые наушники с микрофоном",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "12Hz-28kHz",
+                    "Дополнительно": "Активное шумоподавление, до 24 часов работы"
+                },
+                "price": "$179",
+                "photo_url": "https://cdn.citilink.ru/G5syJxOHKCxvQXzihI7Rc01C6YISPkKtIFTuY6Hfv84/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/26313988-0b68-49c1-bc6a-2c5f9b0a7f7e.jpg"
+            },
+            "Kraken V3 HyperSense": {
+                "description": "Геймерские наушники с тактильной обратной связью",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Проводное (USB)",
+                    "Микрофон": "Выдвижной",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Технология HyperSense, охлаждающие амбушюры"
+                },
+                "price": "$199",
+                "photo_url": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-85/207/873/912/291/20/600005413325b0.jpeg"
+            },
+            "Barracuda X": {
+                "description": "Кросс-платформенные беспроводные наушники",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz/USB-C)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "До 50 часов работы, универсальный USB-C адаптер"
+                },
+                "price": "$99",
+                "photo_url": "https://impult.ru/preview/r/456x456/upload/iblock/9e7/366ipuexqndd1swkqnpux94ti65juati.jpg"
+            }
+        },
+        "Logitech": {
+            "G Pro X Wireless": {
+                "description": "Профессиональные беспроводные игровые наушники",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (Lightspeed)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Технология Blue VO!CE, до 20 часов работы"
+                },
+                "price": "$199",
+                "photo_url": "https://microless.com/cdn/products/200d08243c93064a7c3ecb32cafb0dfd-hi.jpg"
+            },
+            "G733 Lightspeed": {
+                "description": "Беспроводные наушники с RGB подсветкой",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (Lightspeed)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Подсветка LIGHTSYNC RGB, до 29 часов работы"
+                },
+                "price": "$149",
+                "photo_url": "https://ru-netbox.ru/image/cache/catalog/Logitech/logitech_g733_violet-417x417.jpg"
+            },
+            "G435 Lightspeed": {
+                "description": "Облегченные беспроводные наушники",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (Lightspeed/Bluetooth)",
+                    "Микрофон": "Встроенный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Вес 165 г, до 18 часов работы"
+                },
+                "price": "$79",
+                "photo_url": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/592236/1_592236.jpg"
+            }
+        },
+        "Asus": {
+            "ROG Delta S Wireless": {
+                "description": "Игровые наушники с технологией ESS",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz/Bluetooth)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "20Hz-40kHz",
+                    "Дополнительно": "Аудиочип ESS, до 25 часов работы"
+                },
+                "price": "$229",
+                "photo_url": "https://komtek.net.ru/images/thumbnails/734/600/detailed/180/85506.jpg"
+            },
+            "TUF Gaming H3": {
+                "description": "Игровые наушники с виртуальным 7.1",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Проводное (3.5mm/USB)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Режим 7.1, амбушюры из протеиновой кожи"
+                },
+                "price": "$59",
+                "photo_url": "https://3logic.ru/pimg/pim/1000/1216695.jpg"
+            },
+            "ROG Cetra True Wireless": {
+                "description": "Игровые TWS наушники с низкой задержкой",
+                "specs": {
+                    "Тип": "Вкладыши",
+                    "Подключение": "Беспроводное (Bluetooth)",
+                    "Микрофон": "Встроенный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Режим Gaming Mode (49ms), до 27 часов работы"
+                },
+                "price": "$129",
+                "photo_url": "https://ir.ozone.ru/s3/multimedia-f/c1000/6413437947.jpg"
+            }
+        },
+        "HyperX": {
+            "Cloud Alpha Wireless": {
+                "description": "Беспроводные наушники с рекордным временем работы",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "13Hz-27kHz",
+                    "Дополнительно": "До 300 часов работы, двойные камеры драйверов"
+                },
+                "price": "$199",
+                "photo_url": "https://row.hyperx.com/cdn/shop/files/hyperx_cloud_alpha_wireless_1_main.jpg?v=1745914432"
+            },
+            "Cloud II Wireless": {
+                "description": "Беспроводная версия культовых наушников",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "15Hz-20kHz",
+                    "Дополнительно": "Виртуальный 7.1, до 30 часов работы"
+                },
+                "price": "$149",
+                "photo_url": "https://img.mvideo.ru/Pdb/400121823b.jpg"
+            },
+            "Cloud Earbuds": {
+                "description": "Проводные игровые наушники-вкладыши",
+                "specs": {
+                    "Тип": "Вкладыши",
+                    "Подключение": "Проводное (3.5mm)",
+                    "Микрофон": "Встроенный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Усиленные басы, совместимость с консолями"
+                },
+                "price": "$49",
+                "photo_url": "https://ae04.alicdn.com/kf/Sfea1480875b94a499054d873c996d6790.jpg_640x640.jpg"
+            }
+        },
+        "SteelSeries": {
+            "Arctis Nova Pro Wireless": {
+                "description": "Флагманские беспроводные наушники",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz/Bluetooth)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "10Hz-22kHz",
+                    "Дополнительно": "База с подзарядкой, активное шумоподавление"
+                },
+                "price": "$349",
+                "photo_url": "https://media.steelseriescdn.com/thumbs/catalog/items/61527/54becfd2b66c42e1be12a63f8ab72f4b.png.500x400_q100_crop-fit_optimize.png"
+            },
+            "Arctis 7P+": {
+                "description": "Беспроводные наушники для консолей",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz)",
+                    "Микрофон": "Выдвижной",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Совместимость с PlayStation, до 30 часов работы"
+                },
+                "price": "$179",
+                "photo_url": "https://media.steelseriescdn.com/thumbs/catalog/items/61471/5b0cb9f1e417460791c9f6fa78980a34.png.1200x627_q100_crop-fit_optimize.png"
+            },
+            "Arctis 1 Wireless": {
+                "description": "Кросс-платформенные беспроводные наушники",
+                "specs": {
+                    "Тип": "Накладные",
+                    "Подключение": "Беспроводное (2.4GHz)",
+                    "Микрофон": "Съемный",
+                    "Частотный диапазон": "20Hz-20kHz",
+                    "Дополнительно": "Совместимость с Nintendo Switch, до 20 часов работы"
+                },
+                "price": "$99",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ojUGFLHPSjDlgGSIMjz__4kbpEiK9q7hHg&s  "
+            }
+        }
+    }
+}
